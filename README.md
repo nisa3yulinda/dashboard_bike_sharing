@@ -1,4 +1,4 @@
-# dashboard_bike_sharing
+# Dicoding Collection Dashboard✨
 
 **Setup environment**
 
